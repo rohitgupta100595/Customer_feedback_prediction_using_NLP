@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly.express
+joblib
+nltk.corpus
+string
