@@ -3,5 +3,4 @@ pandas
 plotly
 joblib
 nltk
-string
 scikit-learn
