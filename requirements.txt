@@ -1,6 +1,7 @@
 streamlit
 pandas
-plotly.express
+plotly
 joblib
-nltk.corpus
+nltk
 string
+scikit-learn
